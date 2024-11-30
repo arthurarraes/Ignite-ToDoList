@@ -29,7 +29,7 @@ git clone https://github.com/arthurarraes/Ignite-ToDoList.git
 Acesse a pasta do projeto e instale as dependências com o **npm** ou **yarn**:
 
 ```bash
-cd nome-do-repositorio
+cd Ignite-ToDoList
 npm install
 # ou
 yarn install
