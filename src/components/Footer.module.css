@@ -1,0 +1,14 @@
+.footer{
+    background-color: var(--gray-700);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    flex-grow: 1;
+    margin-top: 0.3rem;
+}
+
+.footer h1{
+    font-size: 1.2rem;
+    color: var(--gray-200);
+}

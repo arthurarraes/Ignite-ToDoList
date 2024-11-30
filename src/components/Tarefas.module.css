@@ -1,0 +1,27 @@
+.container{
+    width: 42rem;
+    margin: auto;
+    flex-grow: 1;
+}
+.acompanhamento{
+    display: flex;
+    justify-content: space-between;
+    margin: 3.5rem 0 1rem;
+}
+.acompanhamento h1,.acompanhamento span{
+    font-size: 0.8rem;
+}
+.acompanhamento span{
+    color: var(--gray-200);
+    margin-left: 0.3rem;
+    background-color: var(--gray-400);
+    padding: 0.2rem 0.5rem;
+    border-radius: 100%;
+}
+.criadas{
+    color: var(--blue);
+    
+}
+.concluidas{
+    color: var(--purple);
+}
